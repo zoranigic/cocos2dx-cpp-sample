@@ -59,7 +59,7 @@ IOS_PROJECT_FILE = os.path.join(IOS_PROJECT_DIR,
                                 "HelloCpp.xcodeproj/project.pbxproj")
 # The Android project directory.
 ANDROID_PROJECT_DIR = os.path.join(ROOT_DIRECTORY,
-                                   "sample_project/proj.android-studio")
+                                   "sample_project/proj.android")
 # The Android.mk file.
 ANDROID_MAKEFILE = os.path.join(ANDROID_PROJECT_DIR, "app/jni/Android.mk")
 # The Libs directory for the cocos2d-x sample project. This is where the
